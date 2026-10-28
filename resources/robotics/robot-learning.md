@@ -4,8 +4,6 @@
 
 > RL and imitation learning for robots, sim-to-real.
 
-**Status:** structure ready, curation pending. Only verified, legitimately free resources are listed; none are added until checked.
-
 ## 📚 Books
 
 - [Modern Robotics free textbook](https://modernrobotics.northwestern.edu/)
@@ -15,8 +13,17 @@
 ## 🎓 University Courses
 
 - [Modern Robotics course](https://modernrobotics.northwestern.edu/nu-gm-book-resource/)
+  **Access:** Free · **Level:** Beginner → Advanced · **Format:** Textbook + video lectures
+  A rigorous, freely available introduction to robot kinematics, dynamics, motion planning and control, with interactive resources.
+  **Best for:** Learners who want a structured foundation before specializing in robot learning.
 - [MIT Underactuated Robotics](https://underactuated.csail.mit.edu/)
+  **Access:** Open access · **Level:** Advanced · **Format:** Notes, videos and code
+  MIT course materials on planning and control for systems that cannot be stabilized by simple feedback, including legged robots and manipulation.
+  **Best for:** Readers with dynamics and linear algebra who want to connect control theory to robot learning.
 - [ETH Robotics Systems Lab courses](https://rsl.ethz.ch/education-students/education.html)
+  **Access:** Free · **Level:** Intermediate → Advanced · **Format:** Course materials
+  ETH Zurich’s robotics course materials cover systems and methods useful for autonomous robots; check each course page for its prerequisites.
+  **Best for:** Students seeking university-level robotics material.
 
 ## ▶️ YouTube & Lecture Series
 
