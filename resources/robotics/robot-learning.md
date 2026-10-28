@@ -7,23 +7,37 @@
 ## 📚 Books
 
 - [Modern Robotics free textbook](https://modernrobotics.northwestern.edu/)
-- [Underactuated Robotics](https://underactuated.csail.mit.edu/)
 - [Robotics: Modelling, Planning and Control resources](https://www.diag.uniroma1.it/deluca/rob1_en/Rob1_en.html)
 
 ## 🎓 University Courses
 
-- [Modern Robotics course](https://modernrobotics.northwestern.edu/nu-gm-book-resource/)
-  **Access:** Free · **Level:** Beginner → Advanced · **Format:** Textbook + video lectures
-  A rigorous, freely available introduction to robot kinematics, dynamics, motion planning and control, with interactive resources.
-  **Best for:** Learners who want a structured foundation before specializing in robot learning.
-- [MIT Underactuated Robotics](https://underactuated.csail.mit.edu/)
-  **Access:** Open access · **Level:** Advanced · **Format:** Notes, videos and code
-  MIT course materials on planning and control for systems that cannot be stabilized by simple feedback, including legged robots and manipulation.
-  **Best for:** Readers with dynamics and linear algebra who want to connect control theory to robot learning.
-- [ETH Robotics Systems Lab courses](https://rsl.ethz.ch/education-students/education.html)
-  **Access:** Free · **Level:** Intermediate → Advanced · **Format:** Course materials
-  ETH Zurich’s robotics course materials cover systems and methods useful for autonomous robots; check each course page for its prerequisites.
-  **Best for:** Students seeking university-level robotics material.
+### Modern Robotics
+
+**Type:** University course  
+**Access:** Free  
+**Level:** Intermediate  
+**Format:** Online textbook + video supplements
+
+A systematic introduction to robot kinematics, dynamics, motion planning, and control, with chapter videos and interactive resources.
+
+**Best for:** Learners who want a structured foundation in robotics before specializing in robot learning.  
+**Prerequisites:** Calculus, linear algebra, and basic mechanics are helpful.
+
+[Open course materials →](https://modernrobotics.northwestern.edu/nu-gm-book-resource/)
+
+### MIT Underactuated Robotics
+
+**Type:** University course  
+**Access:** Open access  
+**Level:** Advanced  
+**Format:** Lecture notes + videos + code
+
+MIT course notes on planning and control for systems that cannot be stabilized by simple feedback, including legged robots and manipulation.
+
+**Best for:** Readers who want to connect robot dynamics and control theory to locomotion and manipulation.  
+**Prerequisites:** Linear algebra, dynamics, and prior exposure to control theory.
+
+[Open course materials →](https://underactuated.csail.mit.edu/)
 
 ## ▶️ YouTube & Lecture Series
 
